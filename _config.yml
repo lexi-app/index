@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Meet People
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Meet
+    description                           : Find people to roleplay with in one tap.
     fontawesome_icon_name                 : venus-mars
     
   - title                                 : Roleplay
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+    description                           : Leave your bleak world behind and let your imagination run free.
     fontawesome_icon_name                 : comments
 
-  - title                                 : Follow
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Immerse
+    description                           : Immerse in the life of your character. Visit new places, buy clothes, property and so on.
     fontawesome_icon_name                 : heart
 
 # Theme Settings
